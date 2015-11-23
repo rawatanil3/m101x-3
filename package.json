@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jadir-junior/m101x#readme",
   "dependencies": {
+    "mongodb": "^2.0.49",
     "underscore": "^1.8.3"
   }
 }
